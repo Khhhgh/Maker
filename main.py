@@ -1,12 +1,10 @@
 import asyncio
-from pytgcalls import idle
 #'𓏺 𝘢 𝘍𝘪𝘶𝘯𝘺 .'#
 import os
 import sys
 import random
 import asyncio
 from pyrogram import Client
-from pytgcalls import PyTgCalls
 from bot import *
 from pyromod import listen
 
